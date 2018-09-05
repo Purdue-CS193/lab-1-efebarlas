@@ -1,6 +1,6 @@
-### Efe Barlas's first CS193 Lab
+# Efe Barlas's first CS193 Lab
 
-# Here are some reasons why I like CS193:
+### Here are some reasons why I like CS193:
 
 - EZ GPA boost
 - Helpful information
